@@ -1,3 +1,3 @@
 # CS 245 (Fall 2019) Practice Assignment 12
 
-Starter code (testing class / interface) for P12 (Hashtable implementation). See assignment details on Canvas.
+For the Timing test, occasionally my implementation of the Hashtable would take a little over 200ms, but on average would be under.
